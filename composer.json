@@ -1,0 +1,9 @@
+{
+    "name": "ztlab120/hello-world",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
